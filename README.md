@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web/WordPress Development
 - 📫 How to reach me sheerazchand@gmail.com
 
-My Recent Work, most of them are related to Theme Customization and FIGMA/XD to WordPress conversion: </br>
+My Recent Work, most of the enlisted below is related to WordPress Theme Customization and FIGMA/XD to WordPress conversion: </br>
 http://hungrywolvesnft.com/
 
 **E-commerce Sites via WooCommerce**
@@ -12,12 +12,31 @@ http://hungrywolvesnft.com/
 http://g5globalpartners.com/ </br>
 http://waxwerkscalifornia.com/ </br>
 http://melsbeautyworks.com/ </br>
-
+http://yourstrulywine.com/ </br>
+https://hmncollection.com/ </br>
 https://solotica.pk/ </br>
 https://lensme.pk/ </br>
 https://dahabcontactlenses.pk/ </br>
 https://freshlooklens.pk/ </br>
 http://lenspk.com/ </br>
+
+**Company Profile Websites**
+</br>
+https://go2lnm.com/ </br>
+http://ftl.digital/ </br>
+http://goodlooksfoundation.com/ </br>
+
+**Health, Pets Care, Coaching and Membership Websites**
+</br>
+https://innersunconsulting.com </br>
+http://veterinarycannabissociety.org/ </br>
+http://simaclassroom.com/ </br>
+
+**Insurance Websites**
+</br>
+http://maplemutual.com/ </br>
+https://www.anchorinsurancebrokers.com.au/ </br>
+https://www.aspireinsurancebrokers.com.au/ </br>
 
 **Blogging/Amazon Affiliate Sites, I have created via WordPress:** 
 </br>
@@ -34,7 +53,7 @@ https://www.travelershaven.com/ </br>
 https://www.allseniorscare.com/ </br>
 https://pakibanks.com/ </br>
 
-**Disclaimer:** Portfolio sites are those which I have created for my employer or clients via freelancing, all the rights are reserved to them I am just showcasing my portfolio.
+**Disclaimer:** Portfolio sites are those on which I have worked for my employer or clients via freelancing, all the rights are reserved to them I am just showcasing my portfolio.
 
 <!---
 sheerazchand/sheerazchand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
