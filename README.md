@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sheerazchand
-- 👀 I’m interested in PHP, MySQL, WordPress, Ajax, JavaScript, jQuery.
+- 👋 Hi, I’m Sheeraz Ahmed (A developer having more than 4 years of experience in Web and App Development)
+- 👀 I’m interested in PHP, MySQL, WordPress, JavaScript, jQuery, Ajax.
 - 🌱 I’m currently learning WordPress Theme/Plugin Development.
 - 💞️ I’m looking to collaborate on Web/WordPress Development
 - 📫 How to reach me sheerazchand@gmail.com
@@ -34,7 +34,7 @@ https://www.travelershaven.com/ </br>
 https://www.allseniorscare.com/ </br>
 https://pakibanks.com/ </br>
 
-Disclaimer: Portfolio sites are those which I have created for my employer or clients via freelancing, all the rights are reserved to them I am just showcasing my portfolio.
+**Disclaimer:** Portfolio sites are those which I have created for my employer or clients via freelancing, all the rights are reserved to them I am just showcasing my portfolio.
 
 <!---
 sheerazchand/sheerazchand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
