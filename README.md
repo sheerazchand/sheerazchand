@@ -7,12 +7,12 @@
 My Recent Work:
 
 Blogging/Amazon Affiliate Sites, I have created:
-https://babylovescare.com/
-https://soothinglifestyle.com/
-https://divashaircare.com/
-https://seniorslivingstyle.com/
-https://gifthome.co.uk/
-https://priceinpakistan.net/
+https://babylovescare.com/ </br>
+https://soothinglifestyle.com/ </br>
+https://divashaircare.com/ </br>
+https://seniorslivingstyle.com/ </br>
+https://gifthome.co.uk/ </br>
+https://priceinpakistan.net/ </br>
 
 Disclaimer: Portfolio sites are those which I have created for my employer or clients via freelancing, all the rights are reserved to them I am just showcasing my portfolio.
 
