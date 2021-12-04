@@ -1,13 +1,14 @@
-- 👋 Hi, I’m Sheeraz Ahmed (A developer having more than 4 years of experience in Web and App Development)
-- 👀 I’m interested in PHP, MySQL, WordPress, JavaScript, jQuery, Ajax.
-- 🌱 I’m currently learning WordPress Theme/Plugin Development.
-- 💞️ I’m looking to collaborate on Web/WordPress Development
-- 📫 How to reach me sheerazchand@gmail.com
+👋 Hi, I’m Sheeraz Ahmed (A developer having more than 4 years of experience in Web and App Development)
+👀 I’m interested in PHP, MySQL, WordPress, JavaScript, jQuery, Ajax, HTML5, CSS3, Bootsrap5
+🌱 I’m currently learning WordPress Theme/Plugin Development
+💞️ I’m looking to collaborate on WordPress Development
+📫 How to reach me sheerazchand@gmail.com
 
-My Recent Work, most of the enlisted below is related to WordPress Theme Customization and FIGMA/XD to WordPress conversion: </br>
+My Recent Work, most of the enlisted below is related to WordPress Theme Customization and FIGMA/XD to WordPress conversion: 
+</br>
 http://hungrywolvesnft.com/
 
-**E-commerce Sites via WooCommerce**
+- **E-commerce Sites via WooCommerce**
 </br>
 http://g5globalpartners.com/ </br>
 http://waxwerkscalifornia.com/ </br>
@@ -20,25 +21,25 @@ https://dahabcontactlenses.pk/ </br>
 https://freshlooklens.pk/ </br>
 http://lenspk.com/ </br>
 
-**Company Profile Websites**
+- **Company Profile Websites**
 </br>
 https://go2lnm.com/ </br>
 http://ftl.digital/ </br>
 http://goodlooksfoundation.com/ </br>
 
-**Health, Pets Care, Coaching and Membership Websites**
+- **Health, Pets Care, Coaching and Membership Websites**
 </br>
 https://innersunconsulting.com </br>
 http://veterinarycannabissociety.org/ </br>
 http://simaclassroom.com/ </br>
 
-**Insurance Websites**
+- **Insurance Websites**
 </br>
 http://maplemutual.com/ </br>
 https://www.anchorinsurancebrokers.com.au/ </br>
 https://www.aspireinsurancebrokers.com.au/ </br>
 
-**Blogging/Amazon Affiliate Sites, I have created via WordPress:** 
+- **Blogging/Amazon Affiliate Sites, I have created via WordPress:** 
 </br>
 http://testpreparation.com.pk/ </br>
 https://babylovescare.com/ </br>
