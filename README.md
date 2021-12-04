@@ -4,15 +4,35 @@
 - 💞️ I’m looking to collaborate on Web/WordPress Development
 - 📫 How to reach me sheerazchand@gmail.com
 
-My Recent Work:
+My Recent Work, most of them are related to Theme Customization and FIGMA/XD to WordPress conversion: </br>
+http://hungrywolvesnft.com/
 
-Blogging/Amazon Affiliate Sites, I have created:
+**E-commerce Sites via WooCommerce**
+</br>
+http://g5globalpartners.com/ </br>
+http://waxwerkscalifornia.com/ </br>
+http://melsbeautyworks.com/ </br>
+
+https://solotica.pk/ </br>
+https://lensme.pk/ </br>
+https://dahabcontactlenses.pk/ </br>
+https://freshlooklens.pk/ </br>
+http://lenspk.com/ </br>
+
+**Blogging/Amazon Affiliate Sites, I have created via WordPress:** 
+</br>
+http://testpreparation.com.pk/ </br>
 https://babylovescare.com/ </br>
 https://soothinglifestyle.com/ </br>
 https://divashaircare.com/ </br>
 https://seniorslivingstyle.com/ </br>
 https://gifthome.co.uk/ </br>
 https://priceinpakistan.net/ </br>
+https://lovegocamping.com/ </br>
+https://cleaningkeepers.com/ </br>
+https://www.travelershaven.com/ </br>
+https://www.allseniorscare.com/ </br>
+https://pakibanks.com/ </br>
 
 Disclaimer: Portfolio sites are those which I have created for my employer or clients via freelancing, all the rights are reserved to them I am just showcasing my portfolio.
 
