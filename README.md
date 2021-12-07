@@ -9,7 +9,6 @@ My Recent Work, most of the enlisted below is related to WordPress Theme Customi
 http://hungrywolvesnft.com/
 
 - **E-commerce Sites via WooCommerce**
-</br>
 http://g5globalpartners.com/ </br>
 http://waxwerkscalifornia.com/ </br>
 http://melsbeautyworks.com/ </br>
