@@ -7,6 +7,7 @@
 My Recent Work, most of the enlisted below is related to WordPress Theme Customization and FIGMA/XD to WordPress conversion: 
 </br>
 http://hungrywolvesnft.com/
+https://tricitydrive.com/
 
 - **E-commerce Sites via WooCommerce**
 http://g5globalpartners.com/ </br>
@@ -20,10 +21,12 @@ https://dahabcontactlenses.pk/ </br>
 https://freshlooklens.pk/ </br>
 http://lenspk.com/ </br>
 
-- **Company Profile Websites**
+- **Company Profile/Portfolio or Photography Websites**
 https://go2lnm.com/ </br>
 http://ftl.digital/ </br>
 http://goodlooksfoundation.com/ </br>
+http://brand-caffeine.com/ </br>
+http://tgphotographyfl.com/ </br>
 
 - **Health, Pets Care, Coaching and Membership Websites**
 https://innersunconsulting.com </br>
