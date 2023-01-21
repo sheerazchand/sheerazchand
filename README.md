@@ -2,7 +2,7 @@
 - 👀 I’m interested in React, PHP, MySQL, WordPress, Shopify, RestFull APIs, JavaScript, jQuery, Ajax, JSON, HTML5, CSS3, Tailwind CSS, Bootsrap5, Firebase
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m not available to collaborate
-- 📫 How to reach me sheerazchand@gmail.com
+- 📫 How to reach me hello@sheerazchand.com
 
 <!---
 sheerazchand/sheerazchand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
