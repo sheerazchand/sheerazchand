@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sheeraz Ahmed (A developer having more than 5 years of experience in Web and App Development)
 - 👀 I’m interested in React, PHP, MySQL, WordPress, Shopify, RestFull APIs, JavaScript, jQuery, Ajax, JSON, HTML5, CSS3, Tailwind CSS, Bootsrap5, Firebase
 - 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m not available to collaborate
+- 💞️ I’m available to collaborate on React and API based products
 - 📫 How to reach me hello@sheerazchand.com
 
 <!---
